@@ -1,0 +1,6 @@
+{
+  "name": "LifeLine SOS",
+  "description": "Minimal Emergency Response & First-Aid Assistance app with a nature-inspired design.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
